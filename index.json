@@ -1,0 +1,32 @@
+{
+  "name":"EXTENSION CLOTHING Tools Debug",
+  "author":"Peperoncino",
+  "url":"https://PeperoncinoVRC.github.io/ExtensionClothingToolsDebug/index.json",
+  "id":"com.peperoncinovrc.vpm",
+  "packages":{
+    "com.peperoncinovrc.dancemotionsetter":{
+      "versions":{
+        "0.0.1":{
+          "name":"com.extensionclothing.ectools1",
+          "displayName":"EXTENSION CLOTHING Tools beta",
+          "version":"EXTENSION CLOTHING Tools beta",
+          "unity":"2019.4",
+          "description": "アルゆいとぺぺち専用",
+          "gitDependencies":{},
+          "vpmDependencies":{
+            "com.vrchat.avatars":">=3.4.2"
+          },
+          "author":{
+            "name":"PeperoncinoVRC",
+            "email":"peperoncino.vrc@gmail.com",
+            "url":"https://x.com/PeperoncinoMVRC"
+          },
+          "url":"",
+          "legacyFolders":{},
+          "legacyFiles":{},
+          "localPath":"Packages\\com.extensionclothing.ectools1",
+        }
+      }
+    }
+  }
+}
